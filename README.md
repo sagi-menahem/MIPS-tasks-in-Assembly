@@ -1,6 +1,8 @@
-# MIPS Assembly Code README
+# MIPS Assembly tasks
 
 This README provides an overview of two MIPS assembly programs, EX3 and EX4.
+
+The full assignment (in Hebrew) is in the "Task 11" file.
 
 ## EX3
 
