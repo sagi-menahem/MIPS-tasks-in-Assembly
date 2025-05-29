@@ -59,4 +59,4 @@ To use this code, follow these steps:
 
 ## Author
 
-Sagi Menahem
+Sagi Menahem.
